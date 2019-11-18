@@ -2,7 +2,7 @@ body {
 	padding: 0;
 	margin: 0;
 	background: #FFF;
-	font-family: 'open Sans', sans-serif;
+	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif !important;
 }
 body a {
 	transition: 0.5s all;
