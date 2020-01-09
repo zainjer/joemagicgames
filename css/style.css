@@ -2,7 +2,7 @@ body {
 	padding: 0;
 	margin: 0;
 	background: #FFF;
-	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif !important;
+	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 body a {
 	transition: 0.5s all;
@@ -29,7 +29,7 @@ h1, h2, h3, h4, h5, h6 {
 	margin: 0;
 	padding: 0;
 	text-align: center;
-	font-family: 'Josefin Sans', sans-serif;
+	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 	letter-spacing:1px;
 }
 p {
